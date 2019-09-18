@@ -1,0 +1,5 @@
+Moneda Venta    Comipra
+USA        44.062   46.199
+EUR        50.211   52.712
+BRA        10.629   11.721
+CHI        0.055    0.064
